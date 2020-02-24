@@ -1,0 +1,416 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "So16UIViewControllerC"
+provides-member:
+- ["So16UIViewControllerC", ""]
+provides-dynamic-lookup:
+- "awake"
+- "new_viewDidLoad"
+- "new_viewWillAppear"
+- "new_viewWillDisAppear"
+depends-top-level:
+- "Bool"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "StringLiteralType"
+- "SwizzlingProtocol"
+- "UIViewController"
+- "Void"
+- !private "print"
+- !private "type"
+depends-member:
+- ["s7CVarArgP", "UIViewController"]
+- ["s7CVarArgP", "awake"]
+- ["s7CVarArgP", "new_viewDidLoad"]
+- ["s7CVarArgP", "new_viewWillAppear"]
+- ["s7CVarArgP", "new_viewWillDisAppear"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "swizzleDidLoadMethod"]
+- !private ["s7CVarArgP", "swizzleWillAppearMethod"]
+- !private ["s7CVarArgP", "swizzleWillDisAppearMethod"]
+- ["s7CVarArgP", "swizzlingForClass"]
+- !private ["s7CVarArgP", "type"]
+- ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", "viewWillAppear"]
+- ["s7CVarArgP", "viewWillDisappear"]
+- ["s28CustomDebugStringConvertibleP", "UIViewController"]
+- ["s28CustomDebugStringConvertibleP", "awake"]
+- ["s28CustomDebugStringConvertibleP", "new_viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", "new_viewWillAppear"]
+- ["s28CustomDebugStringConvertibleP", "new_viewWillDisAppear"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "swizzleDidLoadMethod"]
+- !private ["s28CustomDebugStringConvertibleP", "swizzleWillAppearMethod"]
+- !private ["s28CustomDebugStringConvertibleP", "swizzleWillDisAppearMethod"]
+- ["s28CustomDebugStringConvertibleP", "swizzlingForClass"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", "viewWillAppear"]
+- ["s28CustomDebugStringConvertibleP", "viewWillDisappear"]
+- ["s23CustomStringConvertibleP", "UIViewController"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "awake"]
+- ["s23CustomStringConvertibleP", "new_viewDidLoad"]
+- ["s23CustomStringConvertibleP", "new_viewWillAppear"]
+- ["s23CustomStringConvertibleP", "new_viewWillDisAppear"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "swizzleDidLoadMethod"]
+- !private ["s23CustomStringConvertibleP", "swizzleWillAppearMethod"]
+- !private ["s23CustomStringConvertibleP", "swizzleWillDisAppearMethod"]
+- ["s23CustomStringConvertibleP", "swizzlingForClass"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", "viewWillAppear"]
+- ["s23CustomStringConvertibleP", "viewWillDisappear"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SQ", "UIViewController"]
+- ["SQ", "awake"]
+- ["SQ", "new_viewDidLoad"]
+- ["SQ", "new_viewWillAppear"]
+- ["SQ", "new_viewWillDisAppear"]
+- !private ["SQ", "print"]
+- !private ["SQ", "swizzleDidLoadMethod"]
+- !private ["SQ", "swizzleWillAppearMethod"]
+- !private ["SQ", "swizzleWillDisAppearMethod"]
+- ["SQ", "swizzlingForClass"]
+- !private ["SQ", "type"]
+- ["SQ", "viewDidLoad"]
+- ["SQ", "viewWillAppear"]
+- ["SQ", "viewWillDisappear"]
+- ["SH", "UIViewController"]
+- ["SH", "awake"]
+- ["SH", "new_viewDidLoad"]
+- ["SH", "new_viewWillAppear"]
+- ["SH", "new_viewWillDisAppear"]
+- !private ["SH", "print"]
+- !private ["SH", "swizzleDidLoadMethod"]
+- !private ["SH", "swizzleWillAppearMethod"]
+- !private ["SH", "swizzleWillDisAppearMethod"]
+- ["SH", "swizzlingForClass"]
+- !private ["SH", "type"]
+- ["SH", "viewDidLoad"]
+- ["SH", "viewWillAppear"]
+- ["SH", "viewWillDisappear"]
+- ["So8NSCodingP", "UIViewController"]
+- ["So8NSCodingP", "awake"]
+- ["So8NSCodingP", "new_viewDidLoad"]
+- ["So8NSCodingP", "new_viewWillAppear"]
+- ["So8NSCodingP", "new_viewWillDisAppear"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "swizzleDidLoadMethod"]
+- !private ["So8NSCodingP", "swizzleWillAppearMethod"]
+- !private ["So8NSCodingP", "swizzleWillDisAppearMethod"]
+- ["So8NSCodingP", "swizzlingForClass"]
+- !private ["So8NSCodingP", "type"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", "viewWillAppear"]
+- ["So8NSCodingP", "viewWillDisappear"]
+- ["So26NSExtensionRequestHandlingP", "UIViewController"]
+- ["So26NSExtensionRequestHandlingP", "awake"]
+- ["So26NSExtensionRequestHandlingP", "new_viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "new_viewWillAppear"]
+- ["So26NSExtensionRequestHandlingP", "new_viewWillDisAppear"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "swizzleDidLoadMethod"]
+- !private ["So26NSExtensionRequestHandlingP", "swizzleWillAppearMethod"]
+- !private ["So26NSExtensionRequestHandlingP", "swizzleWillDisAppearMethod"]
+- ["So26NSExtensionRequestHandlingP", "swizzlingForClass"]
+- !private ["So26NSExtensionRequestHandlingP", "type"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", "viewWillAppear"]
+- ["So26NSExtensionRequestHandlingP", "viewWillDisappear"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "awake"]
+- ["So8NSObjectC", "new_viewDidLoad"]
+- ["So8NSObjectC", "new_viewWillAppear"]
+- ["So8NSObjectC", "new_viewWillDisAppear"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "swizzleDidLoadMethod"]
+- ["So8NSObjectC", "swizzleWillAppearMethod"]
+- ["So8NSObjectC", "swizzleWillDisAppearMethod"]
+- ["So8NSObjectC", "swizzlingForClass"]
+- !private ["So8NSObjectC", "type"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewWillAppear"]
+- ["So8NSObjectC", "viewWillDisappear"]
+- ["So8NSObjectP", "UIViewController"]
+- ["So8NSObjectP", "awake"]
+- ["So8NSObjectP", "new_viewDidLoad"]
+- ["So8NSObjectP", "new_viewWillAppear"]
+- ["So8NSObjectP", "new_viewWillDisAppear"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "swizzleDidLoadMethod"]
+- !private ["So8NSObjectP", "swizzleWillAppearMethod"]
+- !private ["So8NSObjectP", "swizzleWillDisAppearMethod"]
+- ["So8NSObjectP", "swizzlingForClass"]
+- !private ["So8NSObjectP", "type"]
+- ["So8NSObjectP", "viewDidLoad"]
+- ["So8NSObjectP", "viewWillAppear"]
+- ["So8NSObjectP", "viewWillDisappear"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "UIViewController"]
+- ["13EventTrackSDK17SwizzlingProtocolP", ""]
+- ["13EventTrackSDK17SwizzlingProtocolP", "awake"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "new_viewDidLoad"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "new_viewWillAppear"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "new_viewWillDisAppear"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "print"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "swizzleDidLoadMethod"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "swizzleWillAppearMethod"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "swizzleWillDisAppearMethod"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "swizzlingForClass"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "type"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "viewDidLoad"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "viewWillAppear"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "viewWillDisappear"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["So21UIAppearanceContainerP", "UIViewController"]
+- ["So21UIAppearanceContainerP", "awake"]
+- ["So21UIAppearanceContainerP", "new_viewDidLoad"]
+- ["So21UIAppearanceContainerP", "new_viewWillAppear"]
+- ["So21UIAppearanceContainerP", "new_viewWillDisAppear"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "swizzleDidLoadMethod"]
+- !private ["So21UIAppearanceContainerP", "swizzleWillAppearMethod"]
+- !private ["So21UIAppearanceContainerP", "swizzleWillDisAppearMethod"]
+- ["So21UIAppearanceContainerP", "swizzlingForClass"]
+- !private ["So21UIAppearanceContainerP", "type"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", "viewWillAppear"]
+- ["So21UIAppearanceContainerP", "viewWillDisappear"]
+- ["So18UIContentContainerP", "UIViewController"]
+- ["So18UIContentContainerP", "awake"]
+- ["So18UIContentContainerP", "new_viewDidLoad"]
+- ["So18UIContentContainerP", "new_viewWillAppear"]
+- ["So18UIContentContainerP", "new_viewWillDisAppear"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "swizzleDidLoadMethod"]
+- !private ["So18UIContentContainerP", "swizzleWillAppearMethod"]
+- !private ["So18UIContentContainerP", "swizzleWillDisAppearMethod"]
+- ["So18UIContentContainerP", "swizzlingForClass"]
+- !private ["So18UIContentContainerP", "type"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "viewWillAppear"]
+- ["So18UIContentContainerP", "viewWillDisappear"]
+- ["So18UIFocusEnvironmentP", "UIViewController"]
+- ["So18UIFocusEnvironmentP", "awake"]
+- ["So18UIFocusEnvironmentP", "new_viewDidLoad"]
+- ["So18UIFocusEnvironmentP", "new_viewWillAppear"]
+- ["So18UIFocusEnvironmentP", "new_viewWillDisAppear"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "swizzleDidLoadMethod"]
+- !private ["So18UIFocusEnvironmentP", "swizzleWillAppearMethod"]
+- !private ["So18UIFocusEnvironmentP", "swizzleWillDisAppearMethod"]
+- ["So18UIFocusEnvironmentP", "swizzlingForClass"]
+- !private ["So18UIFocusEnvironmentP", "type"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", "viewWillAppear"]
+- ["So18UIFocusEnvironmentP", "viewWillDisappear"]
+- ["So30UIPasteConfigurationSupportingP", "UIViewController"]
+- ["So30UIPasteConfigurationSupportingP", "awake"]
+- ["So30UIPasteConfigurationSupportingP", "new_viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", "new_viewWillAppear"]
+- ["So30UIPasteConfigurationSupportingP", "new_viewWillDisAppear"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "swizzleDidLoadMethod"]
+- !private ["So30UIPasteConfigurationSupportingP", "swizzleWillAppearMethod"]
+- !private ["So30UIPasteConfigurationSupportingP", "swizzleWillDisAppearMethod"]
+- ["So30UIPasteConfigurationSupportingP", "swizzlingForClass"]
+- !private ["So30UIPasteConfigurationSupportingP", "type"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", "viewWillAppear"]
+- ["So30UIPasteConfigurationSupportingP", "viewWillDisappear"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "UIViewController"]
+- ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "awake"]
+- ["So11UIResponderC", "new_viewDidLoad"]
+- ["So11UIResponderC", "new_viewWillAppear"]
+- ["So11UIResponderC", "new_viewWillDisAppear"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "swizzleDidLoadMethod"]
+- ["So11UIResponderC", "swizzleWillAppearMethod"]
+- ["So11UIResponderC", "swizzleWillDisAppearMethod"]
+- ["So11UIResponderC", "swizzlingForClass"]
+- !private ["So11UIResponderC", "type"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewWillAppear"]
+- ["So11UIResponderC", "viewWillDisappear"]
+- ["So30UIResponderStandardEditActionsP", "UIViewController"]
+- ["So30UIResponderStandardEditActionsP", "awake"]
+- ["So30UIResponderStandardEditActionsP", "new_viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "new_viewWillAppear"]
+- ["So30UIResponderStandardEditActionsP", "new_viewWillDisAppear"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "swizzleDidLoadMethod"]
+- !private ["So30UIResponderStandardEditActionsP", "swizzleWillAppearMethod"]
+- !private ["So30UIResponderStandardEditActionsP", "swizzleWillDisAppearMethod"]
+- ["So30UIResponderStandardEditActionsP", "swizzlingForClass"]
+- !private ["So30UIResponderStandardEditActionsP", "type"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "viewWillAppear"]
+- ["So30UIResponderStandardEditActionsP", "viewWillDisappear"]
+- ["So16UIStateRestoringP", "UIViewController"]
+- ["So16UIStateRestoringP", "awake"]
+- ["So16UIStateRestoringP", "new_viewDidLoad"]
+- ["So16UIStateRestoringP", "new_viewWillAppear"]
+- ["So16UIStateRestoringP", "new_viewWillDisAppear"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "swizzleDidLoadMethod"]
+- !private ["So16UIStateRestoringP", "swizzleWillAppearMethod"]
+- !private ["So16UIStateRestoringP", "swizzleWillDisAppearMethod"]
+- ["So16UIStateRestoringP", "swizzlingForClass"]
+- !private ["So16UIStateRestoringP", "type"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "viewWillAppear"]
+- ["So16UIStateRestoringP", "viewWillDisappear"]
+- ["So18UITraitEnvironmentP", "UIViewController"]
+- ["So18UITraitEnvironmentP", "awake"]
+- ["So18UITraitEnvironmentP", "new_viewDidLoad"]
+- ["So18UITraitEnvironmentP", "new_viewWillAppear"]
+- ["So18UITraitEnvironmentP", "new_viewWillDisAppear"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "swizzleDidLoadMethod"]
+- !private ["So18UITraitEnvironmentP", "swizzleWillAppearMethod"]
+- !private ["So18UITraitEnvironmentP", "swizzleWillDisAppearMethod"]
+- ["So18UITraitEnvironmentP", "swizzlingForClass"]
+- !private ["So18UITraitEnvironmentP", "type"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "viewWillAppear"]
+- ["So18UITraitEnvironmentP", "viewWillDisappear"]
+- ["So23UIUserActivityRestoringP", "UIViewController"]
+- ["So23UIUserActivityRestoringP", "awake"]
+- ["So23UIUserActivityRestoringP", "new_viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "new_viewWillAppear"]
+- ["So23UIUserActivityRestoringP", "new_viewWillDisAppear"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "swizzleDidLoadMethod"]
+- !private ["So23UIUserActivityRestoringP", "swizzleWillAppearMethod"]
+- !private ["So23UIUserActivityRestoringP", "swizzleWillDisAppearMethod"]
+- ["So23UIUserActivityRestoringP", "swizzlingForClass"]
+- !private ["So23UIUserActivityRestoringP", "type"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "viewWillAppear"]
+- ["So23UIUserActivityRestoringP", "viewWillDisappear"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "UIViewController"]
+- ["So16UIViewControllerC", "Void"]
+- ["So16UIViewControllerC", "awake"]
+- ["So16UIViewControllerC", "deinit"]
+- ["So16UIViewControllerC", "new_viewDidLoad"]
+- ["So16UIViewControllerC", "new_viewWillAppear"]
+- ["So16UIViewControllerC", "new_viewWillDisAppear"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "swizzleDidLoadMethod"]
+- !private ["So16UIViewControllerC", "swizzleWillAppearMethod"]
+- !private ["So16UIViewControllerC", "swizzleWillDisAppearMethod"]
+- ["So16UIViewControllerC", "swizzlingForClass"]
+- !private ["So16UIViewControllerC", "type"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewWillAppear"]
+- ["So16UIViewControllerC", "viewWillDisappear"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIViewController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "awake"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "new_viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "new_viewWillAppear"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "new_viewWillDisAppear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "swizzleDidLoadMethod"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "swizzleWillAppearMethod"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "swizzleWillDisAppearMethod"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "swizzlingForClass"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "type"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewWillAppear"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "viewWillDisappear"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIViewController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "awake"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "new_viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "new_viewWillAppear"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "new_viewWillDisAppear"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "swizzleDidLoadMethod"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "swizzleWillAppearMethod"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "swizzleWillDisAppearMethod"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "swizzlingForClass"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "type"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewWillAppear"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewWillDisappear"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s27StringInterpolationProtocolP"
+- "13EventTrackSDK17SwizzlingProtocolP"
+- !private "s16TextOutputStreamP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/EventTrackSDK/EventTrackSDK.h"
+- "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/build/EventTrackSDK.build/Debug-iphoneos/EventTrackSDK.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d9cfdddb4446b8ea18ef8499786a569b"

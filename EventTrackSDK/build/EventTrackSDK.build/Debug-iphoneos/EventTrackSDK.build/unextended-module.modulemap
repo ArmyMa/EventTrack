@@ -1,0 +1,10 @@
+framework module EventTrackSDK {
+  umbrella header "EventTrackSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module EventTrackSDK.__Swift {
+    exclude header "EventTrackSDK-Swift.h"
+}

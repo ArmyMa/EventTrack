@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/Army_Ma/Library/Developer/Xcode/DerivedData/TrackTest-dgtjvdvpurrgtodwbqnqgwqapfug/Build/Products/Debug-iphoneos/EventTrackSDK.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/build/EventTrackSDK.build/Debug-iphoneos/EventTrackSDK.build/unextended-module.modulemap",
+    }]
+  }]
+}

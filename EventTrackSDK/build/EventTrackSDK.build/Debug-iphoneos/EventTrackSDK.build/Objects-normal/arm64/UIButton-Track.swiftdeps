@@ -1,0 +1,398 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "So8UIButtonC"
+provides-member:
+- ["So8UIButtonC", ""]
+provides-dynamic-lookup:
+- "new_sendAction"
+depends-top-level:
+- !private "??"
+- "AnyObject"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Selector"
+- !private "StringLiteralType"
+- "SwizzlingProtocol"
+- "UIButton"
+- "UIEvent"
+- "Void"
+- !private "print"
+depends-member:
+- ["So15CALayerDelegateP", "UIButton"]
+- ["So15CALayerDelegateP", "awake"]
+- ["So15CALayerDelegateP", "new_sendAction"]
+- !private ["So15CALayerDelegateP", "print"]
+- ["So15CALayerDelegateP", "sendAction"]
+- !private ["So15CALayerDelegateP", "swizzleButtonClickMethod"]
+- ["So15CALayerDelegateP", "swizzlingForClass"]
+- !private ["So15CALayerDelegateP", "title"]
+- ["s7CVarArgP", "UIButton"]
+- ["s7CVarArgP", "awake"]
+- ["s7CVarArgP", "new_sendAction"]
+- !private ["s7CVarArgP", "print"]
+- ["s7CVarArgP", "sendAction"]
+- !private ["s7CVarArgP", "swizzleButtonClickMethod"]
+- ["s7CVarArgP", "swizzlingForClass"]
+- !private ["s7CVarArgP", "title"]
+- ["s28CustomDebugStringConvertibleP", "UIButton"]
+- ["s28CustomDebugStringConvertibleP", "awake"]
+- ["s28CustomDebugStringConvertibleP", "new_sendAction"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- ["s28CustomDebugStringConvertibleP", "sendAction"]
+- !private ["s28CustomDebugStringConvertibleP", "swizzleButtonClickMethod"]
+- ["s28CustomDebugStringConvertibleP", "swizzlingForClass"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- ["s23CustomStringConvertibleP", "UIButton"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "awake"]
+- ["s23CustomStringConvertibleP", "new_sendAction"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- ["s23CustomStringConvertibleP", "sendAction"]
+- !private ["s23CustomStringConvertibleP", "swizzleButtonClickMethod"]
+- ["s23CustomStringConvertibleP", "swizzlingForClass"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SQ", "UIButton"]
+- ["SQ", "awake"]
+- ["SQ", "new_sendAction"]
+- !private ["SQ", "normal"]
+- !private ["SQ", "print"]
+- ["SQ", "sendAction"]
+- !private ["SQ", "swizzleButtonClickMethod"]
+- ["SQ", "swizzlingForClass"]
+- !private ["SQ", "title"]
+- !private ["s25ExpressibleByArrayLiteralP", "normal"]
+- ["SH", "UIButton"]
+- ["SH", "awake"]
+- ["SH", "new_sendAction"]
+- !private ["SH", "print"]
+- ["SH", "sendAction"]
+- !private ["SH", "swizzleButtonClickMethod"]
+- ["SH", "swizzlingForClass"]
+- !private ["SH", "title"]
+- ["So8NSCodingP", "UIButton"]
+- ["So8NSCodingP", "awake"]
+- ["So8NSCodingP", "new_sendAction"]
+- !private ["So8NSCodingP", "print"]
+- ["So8NSCodingP", "sendAction"]
+- !private ["So8NSCodingP", "swizzleButtonClickMethod"]
+- ["So8NSCodingP", "swizzlingForClass"]
+- !private ["So8NSCodingP", "title"]
+- ["So8NSObjectC", "AnyObject"]
+- ["So8NSObjectC", "Selector"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIEvent"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "awake"]
+- ["So8NSObjectC", "new_sendAction"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "sendAction"]
+- ["So8NSObjectC", "swizzleButtonClickMethod"]
+- ["So8NSObjectC", "swizzlingForClass"]
+- !private ["So8NSObjectC", "title"]
+- ["So8NSObjectP", "UIButton"]
+- ["So8NSObjectP", "awake"]
+- ["So8NSObjectP", "new_sendAction"]
+- !private ["So8NSObjectP", "print"]
+- ["So8NSObjectP", "sendAction"]
+- !private ["So8NSObjectP", "swizzleButtonClickMethod"]
+- ["So8NSObjectP", "swizzlingForClass"]
+- !private ["So8NSObjectP", "title"]
+- !private ["s9OptionSetP", "normal"]
+- !private ["SY", "normal"]
+- !private ["s10SetAlgebraP", "normal"]
+- !private ["So14UIControlStateV", "normal"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "UIButton"]
+- ["13EventTrackSDK17SwizzlingProtocolP", ""]
+- ["13EventTrackSDK17SwizzlingProtocolP", "awake"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "new_sendAction"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "print"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "sendAction"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "swizzleButtonClickMethod"]
+- ["13EventTrackSDK17SwizzlingProtocolP", "swizzlingForClass"]
+- !private ["13EventTrackSDK17SwizzlingProtocolP", "title"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "UIButton"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "awake"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "new_sendAction"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "print"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "sendAction"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "swizzleButtonClickMethod"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "swizzlingForClass"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "title"]
+- ["So29UIAccessibilityIdentificationP", "UIButton"]
+- ["So29UIAccessibilityIdentificationP", "awake"]
+- ["So29UIAccessibilityIdentificationP", "new_sendAction"]
+- !private ["So29UIAccessibilityIdentificationP", "print"]
+- ["So29UIAccessibilityIdentificationP", "sendAction"]
+- !private ["So29UIAccessibilityIdentificationP", "swizzleButtonClickMethod"]
+- ["So29UIAccessibilityIdentificationP", "swizzlingForClass"]
+- !private ["So29UIAccessibilityIdentificationP", "title"]
+- ["So12UIAppearanceP", "UIButton"]
+- ["So12UIAppearanceP", "awake"]
+- ["So12UIAppearanceP", "new_sendAction"]
+- !private ["So12UIAppearanceP", "print"]
+- ["So12UIAppearanceP", "sendAction"]
+- !private ["So12UIAppearanceP", "swizzleButtonClickMethod"]
+- ["So12UIAppearanceP", "swizzlingForClass"]
+- !private ["So12UIAppearanceP", "title"]
+- ["So21UIAppearanceContainerP", "UIButton"]
+- ["So21UIAppearanceContainerP", "awake"]
+- ["So21UIAppearanceContainerP", "new_sendAction"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- ["So21UIAppearanceContainerP", "sendAction"]
+- !private ["So21UIAppearanceContainerP", "swizzleButtonClickMethod"]
+- ["So21UIAppearanceContainerP", "swizzlingForClass"]
+- !private ["So21UIAppearanceContainerP", "title"]
+- ["So8UIButtonC", "AnyObject"]
+- ["So8UIButtonC", "Selector"]
+- ["So8UIButtonC", "UIButton"]
+- ["So8UIButtonC", "UIEvent"]
+- ["So8UIButtonC", "Void"]
+- ["So8UIButtonC", "awake"]
+- ["So8UIButtonC", "deinit"]
+- ["So8UIButtonC", "new_sendAction"]
+- !private ["So8UIButtonC", "print"]
+- ["So8UIButtonC", "sendAction"]
+- !private ["So8UIButtonC", "swizzleButtonClickMethod"]
+- ["So8UIButtonC", "swizzlingForClass"]
+- !private ["So8UIButtonC", "title"]
+- ["So9UIControlC", "AnyObject"]
+- ["So9UIControlC", "Selector"]
+- ["So9UIControlC", "UIButton"]
+- ["So9UIControlC", "UIEvent"]
+- ["So9UIControlC", "Void"]
+- ["So9UIControlC", "awake"]
+- ["So9UIControlC", "new_sendAction"]
+- !private ["So9UIControlC", "print"]
+- ["So9UIControlC", "sendAction"]
+- ["So9UIControlC", "swizzleButtonClickMethod"]
+- ["So9UIControlC", "swizzlingForClass"]
+- !private ["So9UIControlC", "title"]
+- ["So17UICoordinateSpaceP", "UIButton"]
+- ["So17UICoordinateSpaceP", "awake"]
+- ["So17UICoordinateSpaceP", "new_sendAction"]
+- !private ["So17UICoordinateSpaceP", "print"]
+- ["So17UICoordinateSpaceP", "sendAction"]
+- !private ["So17UICoordinateSpaceP", "swizzleButtonClickMethod"]
+- ["So17UICoordinateSpaceP", "swizzlingForClass"]
+- !private ["So17UICoordinateSpaceP", "title"]
+- ["So13UIDynamicItemP", "UIButton"]
+- ["So13UIDynamicItemP", "awake"]
+- ["So13UIDynamicItemP", "new_sendAction"]
+- !private ["So13UIDynamicItemP", "print"]
+- ["So13UIDynamicItemP", "sendAction"]
+- !private ["So13UIDynamicItemP", "swizzleButtonClickMethod"]
+- ["So13UIDynamicItemP", "swizzlingForClass"]
+- !private ["So13UIDynamicItemP", "title"]
+- ["So18UIFocusEnvironmentP", "UIButton"]
+- ["So18UIFocusEnvironmentP", "awake"]
+- ["So18UIFocusEnvironmentP", "new_sendAction"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- ["So18UIFocusEnvironmentP", "sendAction"]
+- !private ["So18UIFocusEnvironmentP", "swizzleButtonClickMethod"]
+- ["So18UIFocusEnvironmentP", "swizzlingForClass"]
+- !private ["So18UIFocusEnvironmentP", "title"]
+- ["So11UIFocusItemP", "UIButton"]
+- ["So11UIFocusItemP", "awake"]
+- ["So11UIFocusItemP", "new_sendAction"]
+- !private ["So11UIFocusItemP", "print"]
+- ["So11UIFocusItemP", "sendAction"]
+- !private ["So11UIFocusItemP", "swizzleButtonClickMethod"]
+- ["So11UIFocusItemP", "swizzlingForClass"]
+- !private ["So11UIFocusItemP", "title"]
+- ["So20UIFocusItemContainerP", "UIButton"]
+- ["So20UIFocusItemContainerP", "awake"]
+- ["So20UIFocusItemContainerP", "new_sendAction"]
+- !private ["So20UIFocusItemContainerP", "print"]
+- ["So20UIFocusItemContainerP", "sendAction"]
+- !private ["So20UIFocusItemContainerP", "swizzleButtonClickMethod"]
+- ["So20UIFocusItemContainerP", "swizzlingForClass"]
+- !private ["So20UIFocusItemContainerP", "title"]
+- ["So24UILargeContentViewerItemP", "UIButton"]
+- ["So24UILargeContentViewerItemP", "awake"]
+- ["So24UILargeContentViewerItemP", "new_sendAction"]
+- !private ["So24UILargeContentViewerItemP", "print"]
+- ["So24UILargeContentViewerItemP", "sendAction"]
+- !private ["So24UILargeContentViewerItemP", "swizzleButtonClickMethod"]
+- ["So24UILargeContentViewerItemP", "swizzlingForClass"]
+- !private ["So24UILargeContentViewerItemP", "title"]
+- ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- ["So30UIPasteConfigurationSupportingP", "awake"]
+- ["So30UIPasteConfigurationSupportingP", "new_sendAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- ["So30UIPasteConfigurationSupportingP", "sendAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "swizzleButtonClickMethod"]
+- ["So30UIPasteConfigurationSupportingP", "swizzlingForClass"]
+- !private ["So30UIPasteConfigurationSupportingP", "title"]
+- ["So11UIResponderC", "AnyObject"]
+- ["So11UIResponderC", "Selector"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIEvent"]
+- ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "awake"]
+- ["So11UIResponderC", "new_sendAction"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "sendAction"]
+- ["So11UIResponderC", "swizzleButtonClickMethod"]
+- ["So11UIResponderC", "swizzlingForClass"]
+- !private ["So11UIResponderC", "title"]
+- ["So30UIResponderStandardEditActionsP", "UIButton"]
+- ["So30UIResponderStandardEditActionsP", "awake"]
+- ["So30UIResponderStandardEditActionsP", "new_sendAction"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- ["So30UIResponderStandardEditActionsP", "sendAction"]
+- !private ["So30UIResponderStandardEditActionsP", "swizzleButtonClickMethod"]
+- ["So30UIResponderStandardEditActionsP", "swizzlingForClass"]
+- !private ["So30UIResponderStandardEditActionsP", "title"]
+- ["So35UISpringLoadedInteractionSupportingP", "UIButton"]
+- ["So35UISpringLoadedInteractionSupportingP", "awake"]
+- ["So35UISpringLoadedInteractionSupportingP", "new_sendAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "print"]
+- ["So35UISpringLoadedInteractionSupportingP", "sendAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "swizzleButtonClickMethod"]
+- ["So35UISpringLoadedInteractionSupportingP", "swizzlingForClass"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "title"]
+- ["So18UITraitEnvironmentP", "UIButton"]
+- ["So18UITraitEnvironmentP", "awake"]
+- ["So18UITraitEnvironmentP", "new_sendAction"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- ["So18UITraitEnvironmentP", "sendAction"]
+- !private ["So18UITraitEnvironmentP", "swizzleButtonClickMethod"]
+- ["So18UITraitEnvironmentP", "swizzlingForClass"]
+- !private ["So18UITraitEnvironmentP", "title"]
+- ["So23UIUserActivityRestoringP", "UIButton"]
+- ["So23UIUserActivityRestoringP", "awake"]
+- ["So23UIUserActivityRestoringP", "new_sendAction"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- ["So23UIUserActivityRestoringP", "sendAction"]
+- !private ["So23UIUserActivityRestoringP", "swizzleButtonClickMethod"]
+- ["So23UIUserActivityRestoringP", "swizzlingForClass"]
+- !private ["So23UIUserActivityRestoringP", "title"]
+- ["So6UIViewC", "AnyObject"]
+- ["So6UIViewC", "Selector"]
+- ["So6UIViewC", "UIButton"]
+- ["So6UIViewC", "UIEvent"]
+- ["So6UIViewC", "Void"]
+- ["So6UIViewC", "awake"]
+- ["So6UIViewC", "new_sendAction"]
+- !private ["So6UIViewC", "print"]
+- ["So6UIViewC", "sendAction"]
+- ["So6UIViewC", "swizzleButtonClickMethod"]
+- ["So6UIViewC", "swizzlingForClass"]
+- !private ["So6UIViewC", "title"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UIButton"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "awake"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "new_sendAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "sendAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "swizzleButtonClickMethod"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "swizzlingForClass"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIButton"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "awake"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "new_sendAction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sendAction"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "swizzleButtonClickMethod"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "swizzlingForClass"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "title"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UIButton"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "awake"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "new_sendAction"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "print"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "sendAction"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "swizzleButtonClickMethod"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "swizzlingForClass"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "title"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "SY"
+- !private "s10SetAlgebraP"
+- !private "So14UIControlStateV"
+- !private "s27StringInterpolationProtocolP"
+- "13EventTrackSDK17SwizzlingProtocolP"
+- !private "s16TextOutputStreamP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/EventTrackSDK/EventTrackSDK.h"
+- "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/build/EventTrackSDK.build/Debug-iphoneos/EventTrackSDK.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6636fa4244dc20fc93c6765bab6433ea"

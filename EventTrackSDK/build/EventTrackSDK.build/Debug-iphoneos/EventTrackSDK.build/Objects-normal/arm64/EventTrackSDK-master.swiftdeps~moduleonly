@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "43f021efb52551dd9a9349ded4bbc184"
+build_time: [1582274501, 805647000]
+inputs:
+  "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/EventTrackSDK/TestTrackHeader.swift": [1580892754, 496899766]
+  "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/EventTrackSDK/SwizzlingTool.swift": [1582274462, 371514255]
+  "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/EventTrackSDK/UIViewController-Track.swift": [1582102436, 13184489]
+  "/Users/Army_Ma/workspace/EventTrackFramework/EventTrackSDK/EventTrackSDK/UIButton-Track.swift": [1581166315, 797511639]
