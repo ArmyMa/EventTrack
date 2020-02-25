@@ -9,8 +9,9 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "EventTrack"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "POC埋点SDK"
+  spec.description  = "POC自用埋点SDK"
   spec.homepage     = "https://github.com/ArmyMa/EventTrack"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "ArmyMa" => "army_ma@163.com" }
