@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "EventTrack"
-  spec.version      = "0.0.3"
+  spec.version      = "0.1"
   spec.summary      = "POC埋点SDK"
   spec.description  = "POC自用埋点SDK"
   spec.homepage     = "https://github.com/ArmyMa/EventTrack"
@@ -18,11 +18,11 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/ArmyMa/EventTrack.git", :tag => spec.version }
 
   spec.platform     = :ios
-  spec.ios.deployment_target     = '11.0'
+  spec.ios.framework = 'UIKit'
+  spec.ios.deployment_target     = '10.0'
   spec.swift_version = '5.0'
 
-  spec.source_files  = 'EventTrackSDK/EventTrackSDK/*.{h,m}'
-
+  spec.source_files  = 'EventTrackSDK/EventTrackSDK/*.{h,m,swift}'
  # spec.dependency "Alamofire"
 
 end
